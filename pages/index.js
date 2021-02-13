@@ -32,7 +32,6 @@ export default function Index() {
         <Link href="/about" color="secondary">
           Go to the about page
         </Link>
-        <ProTip />
         <Copyright />
       </Box>
     </Container>
